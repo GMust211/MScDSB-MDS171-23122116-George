@@ -14,3 +14,5 @@ george.thomas@msds.christuniversity.in
 |6.|14-09-23|lab06|Prepare a CSV file with combinations of these values with the help of random index & looping statements and other control structures we discussed in class.|https://github.com/GMust211/MScDSB-MDS171-23122116-George/tree/8662a8bbccd4d15c4cf4ad971ec4157d49fe6a3e/Lab%2006|
 |8.|03-10-23|lab08|Write a Python program to implement a Stack class that has the following functions.|https://github.com/GMust211/MScDSB-MDS171-23122116-George/tree/9227e0241c27854af91aa192c4d1f06fa7a3c647|
 |9.|11-10-23|lab09create a petstore class where you have the details of pets available and their detailshttps://github.com/GMust211/MScDSB-MDS171-23122116-George/tree/db930f353123da79d0bef968da66a82c2f300169.|https://github.com/GMust211/MScDSB-MDS171-23122116-George/tree/9227e0241c27854af91aa192c4d1f06fa7a3c647|
+|10.|23-10-23|Create a Python Class for managing student details and marks.
+Define the class and implement the methods of the student class in a menu-driven program for different types of users||
